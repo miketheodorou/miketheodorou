@@ -44,7 +44,7 @@ I'd also like to explore more backend development and be truly comfortable on bo
 - 🎮 Video Games
 - 🧗 Rock Climb
 - 🛹 Skateboard
-- 🔥 Fire Spinning
+- 🔥 Fire Spinning (peep the video below 👇)
 <a target="_blank" href="https://vimeo.com/140862421">
 <img src="https://i.vimeocdn.com/video/537581998-c1074a51460315adb58ce82cb96f0b7cae50f639ca22e6b30a69ed05265836e1-d_960x540.png" width="600" alt="Mike Fire Poi Video" />
 </a>
